@@ -18,18 +18,19 @@ class Solution {
 
             sum += arr[i];
 
-            // If the entire subarray sum is k
             if (sum == k) {
                 maxLen = i + 1;
             }
 
-            // Check if a previous prefix sum exists
-            if (map.containsKey(sum - k)) {
-                int len = i - map.get(sum - k);
+            int remaining = sum - k;
+
+            if (map.containsKey(remaining)) {
+
+                int len = i - map.get(remaining);
+
                 maxLen = Math.max(maxLen, len);
             }
 
-            // Store the prefix sum only if it is not already present
             if (!map.containsKey(sum)) {
                 map.put(sum, i);
             }
