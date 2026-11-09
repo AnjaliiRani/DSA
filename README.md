@@ -7,13 +7,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 |
+| LeetCode | 1 | 1 | 0 | 0 |
 | GeeksforGeeks | 1 | 0 | 1 | 0 |
-| **Total** | **1** | **0** | **1** | **0** |
+| **Total** | **2** | **1** | **1** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestSubarrayWithSumK.java) |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/1_TwoSum.java) |
+| 2 | [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestSubarrayWithSumK.java) |
 <!-- COMMITDSA_END -->
