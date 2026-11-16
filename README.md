@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 2 | 3 | 0 |
-| GeeksforGeeks | 7 | 2 | 5 | 0 |
-| **Total** | **12** | **4** | **8** | **0** |
+| GeeksforGeeks | 8 | 2 | 6 | 0 |
+| **Total** | **13** | **4** | **9** | **0** |
 
 ## Solved Problems
 
@@ -25,6 +25,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KadanesAlgorithm.java) |
 | 9 | [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestSubarrayWithSumK.java) |
 | 10 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
-| 11 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
-| 12 | [Stock Buy and Sell – Multiple Transaction Allowed](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StockBuyAndSellMultipleTransactionAllowed.java) |
+| 11 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_NextPermutation.java) |
+| 12 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
+| 13 | [Stock Buy and Sell – Multiple Transaction Allowed](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StockBuyAndSellMultipleTransactionAllowed.java) |
 <!-- COMMITDSA_END -->
