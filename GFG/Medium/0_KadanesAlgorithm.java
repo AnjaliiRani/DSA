@@ -6,19 +6,20 @@
 
 class Solution {
     int maxSubarraySum(int[] arr) {
+      int n = arr.length;
+      int maxsum= Integer.MIN_VALUE;
+      int sum=0;
       
-              int currentSum = arr[0];
-              int maxSum = arr[0];
-
-              for (int i = 1; i < arr.length; i++) {
-                  currentSum = Math.max(arr[i], currentSum + arr[i]);
-
-                  maxSum = Math.max(maxSum, currentSum);
-              }
-
-              return maxSum;
+      for(int i=0;i<n;i++){
           
-
+          sum+=arr[i];
+          maxsum=Math.max(maxsum,sum);
+          
+          if(sum<0){
+              sum=0;
+          }
+      }
+      return maxsum;
         
     }
 }
