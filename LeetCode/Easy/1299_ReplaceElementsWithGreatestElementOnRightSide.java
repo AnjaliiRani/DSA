@@ -6,21 +6,16 @@
 
 class Solution {
     public int[] replaceElements(int[] arr) {
+        // better approach
         
-        int n = arr.length;
-        int[] ans= new int[n];
+       int n = arr.length;
+       int max=-1;
+       for(int i=n-1;i>=0;i--){
+        int current = arr[i];
+        arr[i]=max;
 
-        for(int i=0;i<n;i++){
-            int max=-1;
-            for(int j=i+1;j<n;j++){
-            if(arr[j]>max){
-                max= arr[j];
-            }
-
-            }
-            ans[i]=max;
-        }
-        return ans;
-        
-    }
+        max= Math.max(max , current);
+       }
+       return arr;
+}
 }
