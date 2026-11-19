@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 7 | 3 | 4 | 0 |
-| GeeksforGeeks | 9 | 3 | 6 | 0 |
-| **Total** | **16** | **6** | **10** | **0** |
+| GeeksforGeeks | 10 | 3 | 7 | 0 |
+| **Total** | **17** | **6** | **11** | **0** |
 
 ## Solved Problems
 
@@ -26,9 +26,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 9 | [Alternate Positive Negative](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_AlternatePositiveNegative.java) |
 | 10 | [Array Leaders](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_ArrayLeaders.java) |
 | 11 | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_KadanesAlgorithm.java) |
-| 12 | [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestSubarrayWithSumK.java) |
-| 13 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
-| 14 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_NextPermutation.java) |
-| 15 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
-| 16 | [Stock Buy and Sell – Multiple Transaction Allowed](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StockBuyAndSellMultipleTransactionAllowed.java) |
+| 12 | [Longest Consecutive Subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestConsecutiveSubsequence.java) |
+| 13 | [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_LongestSubarrayWithSumK.java) |
+| 14 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_MajorityElement.java) |
+| 15 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_NextPermutation.java) |
+| 16 | [Sort 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_Sort0s1sAnd2s.java) |
+| 17 | [Stock Buy and Sell – Multiple Transaction Allowed](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StockBuyAndSellMultipleTransactionAllowed.java) |
 <!-- COMMITDSA_END -->
